@@ -1,0 +1,8 @@
+pages
+contact me;
+home
+picture
+biodata
+skills
+education
+hobbies
